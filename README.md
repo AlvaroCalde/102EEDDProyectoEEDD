@@ -1,2 +1,2 @@
 # Prueba01-eedd
-Esta es la primera prueba
+Esta es el repositorio de la asignatura Entornos de desarrollo
